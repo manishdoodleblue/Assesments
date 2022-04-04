@@ -1,0 +1,299 @@
+.a{
+    width: 100%;
+    padding: 10px;
+    background-color: blue;
+    color: white;
+    
+}
+.b{
+    margin-left: 150px;
+}
+.c{
+    margin-left: 100px;
+}
+.d{
+    margin-left: 500px;
+  
+}
+.e{
+    margin-left: 15px; 
+}
+.f{
+    margin-left: 15px; 
+}
+.g{
+    margin-left: 15px; 
+}
+.h{
+    margin-left: 15px;   
+}
+.aa{
+  width: 15%;
+  margin-left: 120px;
+  margin-top: 30px;
+}
+.topnav {
+    display: flex;
+    justify-content: space-around;
+    margin-top: px;
+    
+  }
+ .i{
+     margin-top: 30px;
+ }
+ .j{
+    margin-top: 30px;   
+ }
+.k{
+    margin-top: 30px;
+}
+.l{
+    margin-top: 30px;
+}
+.m{
+    margin-top: 30px;
+}
+.n{
+    margin-top: 30px;
+}
+.bb{
+    width: 1550px;
+}
+.man{
+    text-align: center;
+    background-image:url('image4.jpg') ;
+    background-repeat:no-repeat;
+    background-size: cover;
+    
+}
+.cc{
+    padding-top: 60%;
+    color: white;
+    margin-bottom: 50%;
+    text-shadow: 1px 1px 2px black, 0 0 1em black, 0 0 0.2em black;
+}
+.mm{
+    colour:white;
+}
+.vv{
+    color:lightskyblue ;
+}
+.p{
+    margin-top: -40%;
+    margin-left: 100px;
+    
+}
+.ll{
+    width:15%;
+    margin-left:550px ;
+    margin-top: 100px; ;
+}
+.ww{
+    margin-left: 580px; 
+}
+.qq{
+    display: flex;
+    margin-left: 595px; 
+}
+.t{
+ margin-left: 100px;
+}
+.o{
+    margin-left: 100px;
+}
+.u{
+    margin-left: 650px;  
+}
+.rr{
+    margin-left: 850px; 
+      margin-top: -25%;
+}
+.x{
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 150px;
+   margin-top: 10%;
+   text-shadow: 1px 1px 2px blue, 0 0 1em gray, 0 0 0.2em gray;
+}
+
+
+.z{
+    color:gray;
+    margin-left: 90px;
+    margin-top:100px ;
+}
+.ww{
+    margin-left:-600px;
+    margin-top: -150px;
+}
+.v{
+    margin-top: 200px;
+    margin-left: 550px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.oo{
+    margin-top: 100px;
+    margin-left: 650px;
+    font-family:Arial, Helvetica, sans-serif;  
+}
+.ii{
+    margin-left: 250px;
+    margin-top: 70px;
+}
+.s{
+    margin-left: 320px;
+}
+.kk{
+    margin-left: 80px;   
+}
+.aaa img{
+    border-radius: 50%;
+    opacity: 60%;
+    border:2px rgba(0,92,179,255) solid;
+    margin-right:100px;
+}
+.bbb img{
+    margin-left: 600px; 
+    border:2px rgba(0,92,179,255) solid;
+    border-radius: 50%;
+    margin-left: 130px;
+}
+.ccc img{
+    border:2px rgba(0,92,179,255) solid;
+    border-radius: 50%;
+    opacity: 60%;   
+}
+.ddd{
+    display: flex;
+}
+.eee img{
+    border:2px rgba(0,92,179,255) solid;
+    border-radius: 50%;
+    opacity: 60%;  
+    margin-left: 100px;
+}
+.fff img{
+    border:2px rgba(0,92,179,255) solid;
+    border-radius: 50%;
+    opacity: 60%;  
+    margin-left:100px;  
+}
+.ggg{
+    margin-left: 670px;
+    margin-top: 100px;
+}
+.hhh{
+    font-family:'Times New Roman', Times, serif;
+    margin-left: 670px;
+    margin-top: 300px;
+}
+.iii{
+    margin-left: 70px;
+}
+.jjj{
+    background-color: blue;
+}
+.kkk{
+    color: gray;
+    font-family:'Times New Roman', Times, serif;
+    margin-left: 500px;
+    margin-top: 100px;
+}
+.lll{
+    color: white;
+    margin-left: 400px;
+    margin-top: 50px;  
+
+}
+.mmm{
+    margin-left: 100px;
+
+}
+.nnn{
+    display: flex;
+}
+.ooo{
+    margin-left: 3%;
+    
+}
+.ppp{
+    padding: 10px 50px;
+    border-radius: 6px;
+    border: none;
+    background-color: #2054a4;
+    color: white;
+}
+.nnn{
+    margin-top: 100px;
+}
+.img19{
+    height:345px;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.615),rgba(0, 0, 0, 0.725)),url(image19.png);
+    background-repeat: no-repeat;
+    background-size: 1600px 330px;
+}
+.topnav1 {
+    display: flex;
+    justify-content: space-around;
+    margin-top: -190px;   
+    
+  }
+  .wr{
+      position:absolute;
+      bottom:-5300px;
+      right:600px;
+      color:white;
+  }
+  .color{
+      color:gray;
+  }
+  .about{
+    margin-top: 200px;
+    margin-left: 100px;
+  
+  }
+  .info{
+      margin-left: 300px;
+      margin-top: -140px;
+  }
+  .recent{
+      margin-top: -150px;
+      margin-left: 600px;
+  }
+  .move{
+      margin-left: 100px;
+      margin-top: -130px;
+  }
+  .get{
+      margin-top:-190px ;
+      margin-left: 1000px;
+  }
+  .zzz{
+   
+        width: 100%;
+        padding: 70px;
+        background-color: black;
+        color: white;
+        
+        
+    
+  }
+  .bi{
+    margin-left: 40px;
+  }
+
+  .im{
+    margin-left: 25px;
+  }
+
+  .ti{
+    margin-left: 25px;
+  }
+
+  .ts{
+    margin-left: 25px;
+  }
+  .privacy{
+      margin-left: 800px;
+      
+  }
+
